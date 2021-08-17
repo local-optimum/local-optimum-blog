@@ -32,13 +32,13 @@ At its core **The Invisible Tax Calculator** is designed to address points 1. an
 
 These results can then be used to compare against the actual performance of that cash when invested to understand how much return is required to outpace inflation.
 
-One the above has been achieved, I intend to expand the functionality of the program with additional measures such as house prices, gold prices and stock market returns to help mitigate what was mentioned in point 3.
+Once the above has been achieved, I intend to expand the functionality of the program with additional measures such as house prices, gold prices and stock market returns to help mitigate what was mentioned in point 3.
 
 Finally I want to build a front end site that enables users to model their finances with a much greater degree of flexibility and intuitiveness.
 
 ## Learning Python
 
-It is worth noting that this project will be my first truly independent effort since I began learning Python. I will now doubt create inelegant solutions and make some mistakes along the way and I would welcome feedback or comments from anyone who tests out the current work in progress.
+It is worth noting that this project will be my first truly independent effort since I began learning Python. I will no doubt create inelegant solutions and make some mistakes along the way and I would welcome feedback or comments from anyone who tests out the current work in progress.
 
 I felt like this would be an interesting starting project as it combines a few key areas I want to develop, namely:
 * Dataframe creation and management

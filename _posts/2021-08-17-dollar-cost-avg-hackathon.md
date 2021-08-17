@@ -13,8 +13,6 @@ As crypto markets start to move upwards once more I've been reading up on the co
 I pitched [MintyFresh][2] on the idea of modelling this strategy ourselves over a one day hackathon. 
 
 He agreed.
-
-## A Project of Two Halves
 ### The Back End (local-optimum)
 
 My role was to design and serve a new API that delivered a table of deposits and running portfolio values within a specified time period across a range of crypto and fiat currencies. I also decided to include a benchmark running total that modelled the user investing their total funds on day zero for comparison.
@@ -36,7 +34,7 @@ The output of this function is then wrapped in a flask app, the dataframe is jso
 [Example here][8].
 ### The Front End (MintyFresh)
 
-As the front end interface designer, MintyFresh built a web app in JavaScript that allowed the user to choose the parameters for my **costAverageFunc**, call the API and return a simple Plotly visualisation of the returns over time. Have a go below!
+As the interface designer, MintyFresh built a web app in JavaScript that allowed the user to choose the parameters for my **costAverageFunc**, call the API and return a simple Plotly visualisation of the returns over time. Have a go below!
 
 <iframe src="https://mintyfresh.me/dca-crypto/" width="600" height="800" style="border: none;"></iframe>
 <br/>
@@ -54,7 +52,7 @@ We must also consider that there are many situations where the recreational inve
 
 This project was my first experience creating APIs and using Flask so I'm sure there are some more elegant alternatives to my approach. However the real stretch goals for this project are in the visualisations, not just in opportunities to tidy up formatting but in how to clearly define and answer useful questions around DCA. 
 
-Comparing regular investment vs an initial bulk buy was the best we could think of within the time constraints. Going forward I would be interested in allowing users to hand pick buy-in points to simulate saving and timing the market or simply model their previous investment decisions.
+Comparing regular investment vs an initial bulk buy was the best we could think of within the time constraints. Going forward I would be interested in allowing users to hand pick buy-in points to simulate saving up to time the market or simply model their previous investment decisions.
 
 If you have any ideas for visualisations or further expansion of this work please leave a comment on [github][6].
 
