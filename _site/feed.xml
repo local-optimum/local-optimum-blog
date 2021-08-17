@@ -1,25 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-08-17T20:02:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">local-optimum-blog</title><subtitle>Free software, free markets.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/jekyll/update/2021/08/17/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2021-08-17T17:11:48+01:00</published><updated>2021-08-17T17:11:48+01:00</updated><id>http://localhost:4000/jekyll/update/2021/08/17/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2021/08/17/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
-
-&lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR-MONTH-DAY-title.MARKUP&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Where &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;YEAR&lt;/code&gt; is a four-digit number, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MONTH&lt;/code&gt; and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;DAY&lt;/code&gt; are both two-digit numbers, and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;MARKUP&lt;/code&gt; is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
-
-&lt;p&gt;Jekyll also offers powerful support for code snippets:&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-  &lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;Hi, &lt;/span&gt;&lt;span class=&quot;si&quot;&gt;#{&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;name&lt;/span&gt;&lt;span class=&quot;si&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;&lt;/span&gt;
-&lt;span class=&quot;k&quot;&gt;end&lt;/span&gt;
-&lt;span class=&quot;n&quot;&gt;print_hi&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;'Tom'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;#=&amp;gt; prints 'Hi, Tom' to STDOUT.&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html">You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.</summary></entry><entry><title type="html">The Invisible Tax: Python Project #0</title><link href="http://localhost:4000/inflation/python/2021/08/02/invisible-tax-project-part-0.html" rel="alternate" type="text/html" title="The Invisible Tax: Python Project #0" /><published>2021-08-02T18:20:23+01:00</published><updated>2021-08-02T18:20:23+01:00</updated><id>http://localhost:4000/inflation/python/2021/08/02/invisible-tax-project-part-0</id><content type="html" xml:base="http://localhost:4000/inflation/python/2021/08/02/invisible-tax-project-part-0.html">&lt;h1 id=&quot;the-invisible-tax-calculator-part-1&quot;&gt;The Invisible Tax Calculator: Part 1&lt;/h1&gt;
-
-&lt;blockquote&gt;
-  &lt;h3 id=&quot;haha-money-printer-go-brrrrr&quot;&gt;&lt;em&gt;“haha money printer go brrrrr”&lt;/em&gt;&lt;/h3&gt;
-  &lt;p&gt; @femalelandlords (account suspended)
-&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/local-optimum-blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/local-optimum-blog/" rel="alternate" type="text/html" /><updated>2021-08-18T00:08:27+01:00</updated><id>http://localhost:4000/local-optimum-blog/feed.xml</id><title type="html">local-optimum-blog</title><subtitle>Free software, free markets.</subtitle><entry><title type="html">The Invisible Tax: Python Project #0</title><link href="http://localhost:4000/local-optimum-blog/inflation/python/2021/08/02/invisible-tax-project-part-0.html" rel="alternate" type="text/html" title="The Invisible Tax: Python Project #0" /><published>2021-08-02T18:20:23+01:00</published><updated>2021-08-02T18:20:23+01:00</updated><id>http://localhost:4000/local-optimum-blog/inflation/python/2021/08/02/invisible-tax-project-part-0</id><content type="html" xml:base="http://localhost:4000/local-optimum-blog/inflation/python/2021/08/02/invisible-tax-project-part-0.html">&lt;blockquote&gt;
+  &lt;h2 id=&quot;haha-money-printer-go-brrrrr&quot;&gt;&lt;em&gt;“haha money printer go brrrrr”&lt;/em&gt;&lt;/h2&gt;
+  &lt;p&gt;@femalelandlords (account suspended)&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;Whilst governments all over the world continue to &lt;a href=&quot;https://www.independent.co.uk/news/business/news/bank-england-money-printing-coronavirus-b1610167.html&quot;&gt;print&lt;/a&gt;, &lt;a href=&quot;https://www.cityam.com/almost-a-fifth-of-all-us-dollars-were-created-this-year/&quot;&gt;money&lt;/a&gt; to pay down the &lt;a href=&quot;https://www.bbc.co.uk/news/business-53104734&quot;&gt;debt&lt;/a&gt; created by their response to the Covid-19 pandemic, I began to realise just how difficult it was to keep track of this increasing cost of living in my personal finances.&lt;/p&gt;
@@ -70,4 +51,57 @@
 
 &lt;p&gt;In my next post I’ll describe the initial structure of the program as well as sharing my data sources and calculations.&lt;/p&gt;
 
-&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name></name></author><category term="inflation" /><category term="python" /><summary type="html">The Invisible Tax Calculator: Part 1</summary></entry></feed>
+&lt;p&gt;Thanks for reading!&lt;/p&gt;</content><author><name></name></author><category term="inflation" /><category term="python" /><summary type="html">“haha money printer go brrrrr” @femalelandlords (account suspended)</summary></entry><entry><title type="html">Dollar-Cost Averaging Crypto: 1-Day Hackathon Project</title><link href="http://localhost:4000/local-optimum-blog/python/crypto/2021/08/02/dollar-cost-avg-hackathon.html" rel="alternate" type="text/html" title="Dollar-Cost Averaging Crypto: 1-Day Hackathon Project" /><published>2021-08-02T18:20:23+01:00</published><updated>2021-08-02T18:20:23+01:00</updated><id>http://localhost:4000/local-optimum-blog/python/crypto/2021/08/02/dollar-cost-avg-hackathon</id><content type="html" xml:base="http://localhost:4000/local-optimum-blog/python/crypto/2021/08/02/dollar-cost-avg-hackathon.html">&lt;blockquote&gt;
+  &lt;h2 id=&quot;btc--eth-do-seem-high-lol&quot;&gt;&lt;em&gt;“BTC &amp;amp; ETH do seem high lol”&lt;/em&gt;&lt;/h2&gt;
+  &lt;p&gt;&lt;a href=&quot;https://twitter.com/elonmusk/status/1363021091086561285&quot;&gt;@elonmusk&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As crypto markets start to move upwards once more I’ve been reading up on the concept of &lt;a href=&quot;https://www.vanguardinvestor.co.uk/articles/latest-thoughts/how-it-works/what-is-pound-cost-averaging&quot;&gt;dollar-cost averaging&lt;/a&gt;. The idea of removing emotion from investment and damping some of crypto’s wilder oscillations is a tempting idea, even if studies show that with &lt;a href=&quot;https://www.cnbc.com/2021/08/12/which-investment-strategy-is-better-lump-sum-or-dollar-cost-averaging.html&quot;&gt;reduced risk comes reduced gains&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I pitched &lt;a href=&quot;https://mintyfresh.me/&quot;&gt;MintyFresh&lt;/a&gt; on the idea of modelling this strategy ourselves over a one day hackathon.&lt;/p&gt;
+
+&lt;p&gt;He agreed.&lt;/p&gt;
+
+&lt;h2 id=&quot;a-project-of-two-halves&quot;&gt;A Project of Two Halves&lt;/h2&gt;
+&lt;h3 id=&quot;the-back-end-local-optimum&quot;&gt;The Back End (local-optimum)&lt;/h3&gt;
+
+&lt;p&gt;My role was to design and serve a new API that delivered a table of deposits and running portfolio values within a specified time period across a range of crypto and fiat currencies. I also decided to include a benchmark running total that modelled the user investing their total funds on day zero for comparison.&lt;/p&gt;
+
+&lt;p&gt;The code can be found &lt;a href=&quot;https://github.com/local-optimum/dollar-cost-avg-widget&quot;&gt;here&lt;/a&gt;, but the &lt;strong&gt;tl;dr&lt;/strong&gt; is:&lt;/p&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-python&quot; data-lang=&quot;python&quot;&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;costAverageFunc&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;coin&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;deposit&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;currency&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;frequency&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;startdate&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;):&lt;/span&gt;
+    &lt;span class=&quot;s&quot;&gt;&quot;&quot;&quot;function that takes the above strings as inputs, 
+    converts them into an API query to coingecko
+    then creates a dataframe of dollar cost averaging 
+    returns vs a single bulk deposit&quot;&quot;&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;The output of this function is then wrapped in a flask app, the dataframe is jsonify’d and the resulting API is hosted on &lt;a href=&quot;https://dca-crypto.herokuapp.com/&quot;&gt;heroku&lt;/a&gt;. If you want to call the API yourself, simply append the following to the linked address&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;/dca/query?coin=INPUT&amp;amp;deposit=INPUT&amp;amp;currency=INPUT&amp;amp;frequency=INPUT&amp;amp;startdate=INPUT&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://dca-crypto.herokuapp.com/dca/query?coin=bitcoin&amp;amp;deposit=100&amp;amp;currency=usd&amp;amp;frequency=1&amp;amp;startdate=2021-01-05&quot;&gt;Example here&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&quot;the-front-end-mintyfresh&quot;&gt;The Front End (MintyFresh)&lt;/h3&gt;
+
+&lt;p&gt;As the front end interface designer, MintyFresh built a web app in JavaScript that allowed the user to choose the parameters for my &lt;strong&gt;costAverageFunc&lt;/strong&gt;, call the API and return a simple Plotly visualisation of the returns over time. Have a go below!&lt;/p&gt;
+
+&lt;iframe src=&quot;https://mintyfresh.me/dca-crypto/&quot; width=&quot;600&quot; height=&quot;800&quot; style=&quot;border: none;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;br /&gt;
+You can also find his code &lt;a href=&quot;https://github.com/MintyFresh-2/dca-crypto&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h2&gt;
+
+&lt;p&gt;Crypto in general has had such an astronomical rise in value over the last few years that any modelling that goes back more than 18 months generates significantly lower returns compared to going all in early.&lt;/p&gt;
+
+&lt;p&gt;However there are situations where dollar-cost averaging does come out on top, intuitively this is true when starting the model at one of the peaks (eg mid March 2021 where DCA actually generates a profit versus a 20% loss for those that buy only at the peak). In general losses are reduced as the market dips and the investor is getting more crypto for their money to compensate.&lt;/p&gt;
+
+&lt;p&gt;We must also consider that there are many situations where the recreational investor is only able to put money in periodically rather than all at once. In this case it may be reassuring to know that buying regularly rather than saving up for a “dip” may be a better strategy (the classic “time in the market is better than timing the market”), however I’m not confident our current visualisations can prove that assertion.&lt;/p&gt;
+
+&lt;h2 id=&quot;next-steps&quot;&gt;Next Steps&lt;/h2&gt;
+
+&lt;p&gt;This project was my first experience creating APIs and using Flask so I’m sure there are some more elegant alternatives to my approach. However the real stretch goals for this project are in the visualisations, not just in opportunities to tidy up formatting but in how to clearly define and answer useful questions around DCA.&lt;/p&gt;
+
+&lt;p&gt;Comparing regular investment vs an initial bulk buy was the best we could think of within the time constraints. Going forward I would be interested in allowing users to hand pick buy-in points to simulate saving and timing the market or simply model their previous investment decisions.&lt;/p&gt;
+
+&lt;p&gt;If you have any ideas for visualisations or further expansion of this work please leave a comment on &lt;a href=&quot;https://github.com/local-optimum/dollar-cost-avg-widget&quot;&gt;github&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="python" /><category term="crypto" /><summary type="html">“BTC &amp;amp; ETH do seem high lol” @elonmusk</summary></entry></feed>
