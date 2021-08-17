@@ -4,9 +4,7 @@ title:  "The Invisible Tax: Python Project #0"
 date:   2021-08-02 18:20:23 +0100
 categories: inflation python
 ---
-# The Invisible Tax Calculator: Part 1
-
->### *"haha money printer go brrrrr"*
+>## *"haha money printer go brrrrr"*
 > @femalelandlords (account suspended)
 
 Whilst governments all over the world continue to [print][1], [money][2] to pay down the [debt][3] created by their response to the Covid-19 pandemic, I began to realise just how difficult it was to keep track of this increasing cost of living in my personal finances.

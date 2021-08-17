@@ -5,7 +5,7 @@ date:   2021-08-02 18:20:23 +0100
 categories: python crypto
 ---
 
-># *"BTC & ETH do seem high lol"*
+>## *"BTC & ETH do seem high lol"*
 > [@elonmusk][1]
 
 As crypto markets start to move upwards once more I've been reading up on the concept of [dollar-cost averaging][4]. The idea of removing emotion from investment and damping some of crypto's wilder oscillations is a tempting idea, even if studies show that with [reduced risk comes reduced gains][3].
