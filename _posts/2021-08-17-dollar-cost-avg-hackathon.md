@@ -23,8 +23,10 @@ The code can be found [here][6], but the **tl;dr** is:
 
 {% highlight python %}
 def costAverageFunc(coin, deposit, currency, frequency, startdate):
-    """function that takes the above strings as inputs, converts them into an API query to coingecko
-    then creates a dataframe of dollar cost averaging returns vs a single bulk deposit"""
+    """function that takes the above strings as inputs, 
+    converts them into an API query to coingecko
+    then creates a dataframe of dollar cost averaging 
+    returns vs a single bulk deposit"""
 {% endhighlight %}
 
 The output of this function is then wrapped in a flask app, the dataframe is jsonify'd and the resulting API is hosted on [heroku][7]. If you want to call the API yourself, simply append the following to the linked address 
