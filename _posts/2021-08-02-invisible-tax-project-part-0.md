@@ -2,7 +2,8 @@
 layout: post
 title:  "The Invisible Tax: Python Project #0"
 date:   2021-08-02 18:20:23 +0100
-categories: inflation python
+categories: InvisibleTaxProject
+tags: inflation python
 ---
 >## *"haha money printer go brrrrr"*
 > @femalelandlords (account suspended)
