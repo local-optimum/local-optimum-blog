@@ -2,7 +2,8 @@
 layout: post
 title:  "Dollar-Cost Averaging Crypto: 1-Day Hackathon Project"
 date:   2021-08-02 18:20:23 +0100
-categories: python crypto
+categories: Hackathons
+tags: crypto python flask
 ---
 
 >## *"BTC & ETH do seem high lol"*
