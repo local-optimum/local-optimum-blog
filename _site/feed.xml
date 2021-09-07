@@ -57,11 +57,19 @@
 &lt;span class=&quot;n&quot;&gt;start_time&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;earliest_date&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;strftime&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;%Y-%m&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
+<<<<<<< HEAD
 &lt;p&gt;By reading in several lines in a standardised format I was able to allow the user to paste large numbers of deposits at once, include multiple deposits for a single date and immediately map the result to a dataframe, making the future integration with the inflation API result much easier.&lt;/p&gt;
 
 &lt;p&gt;As you can see I’m relying on any errors generated in the manipulation of the input to ensure the user input is in the correct format before proceeding. I’m sure there are a number of edge cases that could slip through however.&lt;/p&gt;
 
 &lt;p&gt;Finally, I used the dataframe to find the earliest deposit date which would act as an input for &lt;strong&gt;Module 2: The API Call&lt;/strong&gt;…&lt;/p&gt;</content><author><name></name></author><category term="InvisibleTaxProject" /><category term="inflation" /><category term="python" /><summary type="html">“The lesson is clear, inflation devalues us all.” Margaret Thatcher</summary></entry><entry><title type="html">The Invisible Tax: Python Project #0</title><link href="http://localhost:4000/local-optimum-blog/invisibletaxproject/2021/08/02/invisible-tax-project-part-0.html" rel="alternate" type="text/html" title="The Invisible Tax: Python Project #0" /><published>2021-08-02T18:20:23+01:00</published><updated>2021-08-02T18:20:23+01:00</updated><id>http://localhost:4000/local-optimum-blog/invisibletaxproject/2021/08/02/invisible-tax-project-part-0</id><content type="html" xml:base="http://localhost:4000/local-optimum-blog/invisibletaxproject/2021/08/02/invisible-tax-project-part-0.html">&lt;blockquote&gt;
+=======
+&lt;p&gt;By reading in several lines in a standardised format I was able to allow the user to paste large numbers of deposits at once, input multiple deposits on a single date and immediately map the result to a dataframe, making the future integration with the inflation API result much easier.&lt;/p&gt;
+
+&lt;p&gt;As you can see I’m relying on any errors generated in the manipulation of the input to ensure the user input is in the correct format before proceeding. I’m sure there are a number of edge cases that could slip through however.&lt;/p&gt;
+
+&lt;p&gt;Finally, I used the dataframe to find the earliest deposit date which would act as an input for Module 2: The API Call…&lt;/p&gt;</content><author><name></name></author><category term="InvisibleTaxProject" /><category term="inflation" /><category term="python" /><summary type="html">“The lesson is clear, inflation devalues us all.” Margaret Thatcher</summary></entry><entry><title type="html">The Invisible Tax: Python Project #0</title><link href="http://localhost:4000/local-optimum-blog/invisibletaxproject/2021/08/02/invisible-tax-project-part-0.html" rel="alternate" type="text/html" title="The Invisible Tax: Python Project #0" /><published>2021-08-02T18:20:23+01:00</published><updated>2021-08-02T18:20:23+01:00</updated><id>http://localhost:4000/local-optimum-blog/invisibletaxproject/2021/08/02/invisible-tax-project-part-0</id><content type="html" xml:base="http://localhost:4000/local-optimum-blog/invisibletaxproject/2021/08/02/invisible-tax-project-part-0.html">&lt;blockquote&gt;
+>>>>>>> d3d79070c05e3d93f93a5bf9f3d3d148772eb55b
   &lt;h2 id=&quot;haha-money-printer-go-brrrrr&quot;&gt;&lt;em&gt;“haha money printer go brrrrr”&lt;/em&gt;&lt;/h2&gt;
   &lt;p&gt;@femalelandlords (account suspended)&lt;/p&gt;
 &lt;/blockquote&gt;

@@ -17,7 +17,7 @@ My approach was to map out the different steps of the process and determine how 
 The structure I settled on is detailed below. It involves 4 main elements:
 1. Taking an input of the user's transaction history (desposit amounts & dates) as a baseline to model the data.
 
-2. Tailoring an API based on the date range provided by the user and using it to build a query to a Consumer Price Index API. I chose the [OECD.stat](https://stats.oecd.org/Index.aspx?DataSetCode=PRICES_CPI) website due to its felxibility. whilst initially I will only work with UK data I wanted to make it simple to extend this functionality at a later date by building out this section.
+2. Tailoring an API based on the date range provided by the user and using it to build a query to a Consumer Price Index API. I chose the [OECD.stat](https://stats.oecd.org/Index.aspx?DataSetCode=PRICES_CPI) website due to its felxibility. whilst initially I will only work with UK data I wanted to make it simple to extend this functionality at a later date.
 
 3. The user input and inflation statistics would then be converted into one master dataframe that applied the CPI stats to the user's inputs, tailoring the impact of inflation for their specific case.
 
@@ -29,7 +29,7 @@ All of the above would then be called via a main.py wrapper with helpful explana
 
 ## Module 1: User Input
 
-My initial attempt created a dictionary from user inputs prompting them to create {date: deposit amount} pairs, however during testing I found it extremely time consuming to enter each deposit individually. There are already a large number of [sites](https://www.thisismoney.co.uk/money/bills/article-1633409/Historic-inflation-calculator-value-money-changed-1900.html) that allow users to model the impact of inflation on single transactions, therefore the USP of this project should be that it allows users to map multiple transactions across a range of dates.
+My initial attempt created a dictionary of user inputs prompting them to create {date: deposit amount} pairs, however during testing I found it extremely time consuming to enter each desposit individually. There are already a large number of [sites](https://www.thisismoney.co.uk/money/bills/article-1633409/Historic-inflation-calculator-value-money-changed-1900.html) that allow users to model the impact of inflation on single transactions, therefore the USP of this project should be that it allows users to map multiple transactions across a range of dates.
 
 After some research into Standard Input, I rewrote the code as follows.
 
@@ -57,7 +57,7 @@ earliest_date = min(netdepositsdf['year_month'])
 start_time =earliest_date.strftime("%Y-%m")
 ```
 
-By reading in several lines in a standardised format I was able to allow the user to paste large numbers of deposits at once, include multiple deposits for a single date and immediately map the result to a dataframe, making future integration with the inflation API result much easier.
+By reading in several lines in a standardised format I was able to allow the user to paste large numbers of deposits at once, input multiple deposits on a single date and immediately map the result to a dataframe, making the future integration with the inflation API result much easier.
 
 As you can see I'm relying on any errors generated in the manipulation of the input to ensure the user input is in the correct format before proceeding. I'm sure there are a number of edge cases that could slip through however.
 
