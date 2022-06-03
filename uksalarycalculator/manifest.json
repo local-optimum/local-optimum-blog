@@ -1,11 +1,11 @@
 {
-    "name": "uk_salary_calculator",
-    "short_name": "uk_salary_calculator",
+    "name": "Uk Salary Calculator",
+    "short_name": "Uk Salary Calculator",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Calculate tax home pay after tax.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
